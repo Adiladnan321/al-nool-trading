@@ -14,10 +14,10 @@ export function Hero() {
               prices.
             </p>
             <div className="flex space-x-4">
-              <button className="bg-white text-blue-700 px-6 py-3 rounded-md font-medium hover:bg-blue-50 transition">
+              <button href="#products" className="bg-white text-blue-700 px-6 py-3 rounded-md font-medium hover:bg-blue-50 transition">
                 Our Products
               </button>
-              <button className="border border-white text-white px-6 py-3 rounded-md font-medium hover:bg-blue-700 transition">
+              <button href="#contact" className="border border-white text-white px-6 py-3 rounded-md font-medium hover:bg-blue-700 transition">
                 Contact Us
               </button>
             </div>
