@@ -6,7 +6,7 @@ export function Hero() {
         <div className="flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 mb-10 md:mb-0">
             <h1 className="text-4xl md:text-5xl font-bold mb-4">
-              Global Consumer Electronics Trading Solutions
+              Consumer Electronics Trading Solutions in Qatar
             </h1>
             <p className="text-lg md:text-xl mb-8 text-blue-100">
               Your trusted partner for premium consumer electronics. We connect
