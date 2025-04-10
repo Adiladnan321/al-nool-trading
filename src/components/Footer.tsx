@@ -7,11 +7,11 @@ export function Footer() {
           <div>
             <div className="flex items-center mb-4">
               <ShoppingBagIcon className="h-8 w-8 text-blue-400" />
-              <span className="ml-2 text-xl font-bold">TechTrade Global</span>
+              <span className="ml-2 text-xl font-bold">Al Nool Trading Co.</span>
             </div>
             <p className="text-gray-300 mb-4">
-              Your trusted partner for global consumer electronics trading
-              solutions.
+              Your trusted partner for consumer electronics trading
+              solutions in Qatar.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-gray-300 hover:text-white">
